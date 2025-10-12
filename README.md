@@ -7,7 +7,6 @@
 ---
 
 ### 🧠 About Me  
-- 🌍 From Belarus, currently studying in Poland  
 - 🎯 Interested in software engineering, embedded systems, and AI in education  
 - 🧩 Enjoy building practical university projects and learning new technologies  
 
