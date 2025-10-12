@@ -21,8 +21,8 @@
 ---
 
 ### 📊 GitHub Stats  
-![Mikhail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikhailshupliakou&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhailshupliakou&layout=compact&theme=tokyonight)
+![Mikhail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mshupliakou&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mshupliakou&layout=compact&theme=tokyonight)
 
 ---
 
