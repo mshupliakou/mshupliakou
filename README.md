@@ -13,9 +13,9 @@
 ---
 
 ### ⚙️ Technologies & Tools  
-🖥️ **Languages:** C++, Python, Java, SQL  
+🖥️ **Languages:** C++, Python, Java, Java Spring Boot, SQL  
 🛢️ **Databases:** PostgreSQL, MySQL  
-🌐 **Web:** HTML, CSS  
+🌐 **Web:** HTML, CSS, JavaScript
 
 ---
 
