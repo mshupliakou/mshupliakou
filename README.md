@@ -2,7 +2,7 @@
 ## AGH University of Kraków
 🎓 **Applied Computer Science student** at the Faculty of Physics and Applied Computer Science.  
 ### Currently seeking for an intership in this field
-💻 Passionate about **C++**, **Python**, **databases**, and **web development**.  
+💻 Passionate about **C++**, **Python**, **Java**, **databases**, and **web development**.  
 
 ---
 
