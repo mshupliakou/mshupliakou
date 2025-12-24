@@ -14,6 +14,7 @@
 
 ### ⚙️ Technologies & Tools  
 🖥️ **Languages:** C++, Python, Java, Java Spring Boot, SQL  
+ **Frameworks:** Java Spring Boot, Python Flask
 🛢️ **Databases:** PostgreSQL, MySQL  
 🌐 **Web:** HTML, CSS, JavaScript
 
