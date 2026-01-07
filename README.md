@@ -21,12 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Mikhail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mshupliakou&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mshupliakou&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 How to reach me  
 📧 Email: mikhail.shupliakou@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/mikhail-shupliakou-10b207338/
